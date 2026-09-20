@@ -1,0 +1,16 @@
+Task 5: The Magic Pipe Operator (2 minutes)
+What is Chain Composition?
+
+Definition: Connecting LangChain components with the | operator to create data pipelines - like Unix pipes for AI.
+
+Each component does ONE thing perfectly. Chain them together to build complex AI workflows!
+
+From Chaos to Elegance
+
+Without chains, you manually pass data between four separate steps and variables. With chains, the same pipeline collapses into a single line using the | operator. See the Solution tab for a comparison.
+
+The Power of |
+
+Just like Unix pipes, data flows left to right through as many components as you need - each one doing a single job well.
+
+Master Move: Amazon's recommendation engine uses 50+ chained components. Each team owns different parts, but they all connect with |.
