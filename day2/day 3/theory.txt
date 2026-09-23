@@ -1,0 +1,25 @@
+What is Zero-Shot Prompting?
+
+Definition: Asking the AI to perform a task without providing any examples - like asking a chef to cook without showing them a recipe. The AI relies entirely on its pre-trained knowledge and your instructions.
+
+The Problem with Vague Prompts
+
+A prompt like "write a policy" is too vague - it produces a generic, unhelpful response.
+
+The Power of Specific Prompts
+
+A prompt like "Write a 200-word GDPR-compliant data privacy policy for European customers with 30-day retention period" produces a targeted, useful result.
+
+Real Impact: Anthropic found that specific zero-shot prompts improved response accuracy by 73% over vague requests!
+
+
+
+What is One-Shot Prompting?
+
+Definition: Providing one example for the AI to follow - like showing a chef one dish before asking them to cook something similar. The AI learns your format, style, and structure from a single example.
+
+The Magic of Examples
+
+Show the AI your company's policy format once, and it will replicate it perfectly for new policies. For example, a REFUND POLICY with 5 numbered sections becomes a REMOTE WORK POLICY with the same 5 sections!
+
+Pro Tip: Amazon uses one-shot prompting for product descriptions - one example ensures thousands of listings follow the same format!
